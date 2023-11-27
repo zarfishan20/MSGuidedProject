@@ -1,0 +1,14 @@
+C:\Users\zfali\MSGuidedProject\StudentGradingApp\bin\Debug\net7.0\StudentGradingApp.exe
+C:\Users\zfali\MSGuidedProject\StudentGradingApp\bin\Debug\net7.0\StudentGradingApp.deps.json
+C:\Users\zfali\MSGuidedProject\StudentGradingApp\bin\Debug\net7.0\StudentGradingApp.runtimeconfig.json
+C:\Users\zfali\MSGuidedProject\StudentGradingApp\bin\Debug\net7.0\StudentGradingApp.dll
+C:\Users\zfali\MSGuidedProject\StudentGradingApp\bin\Debug\net7.0\StudentGradingApp.pdb
+C:\Users\zfali\MSGuidedProject\StudentGradingApp\obj\Debug\net7.0\StudentGradingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zfali\MSGuidedProject\StudentGradingApp\obj\Debug\net7.0\StudentGradingApp.AssemblyInfoInputs.cache
+C:\Users\zfali\MSGuidedProject\StudentGradingApp\obj\Debug\net7.0\StudentGradingApp.AssemblyInfo.cs
+C:\Users\zfali\MSGuidedProject\StudentGradingApp\obj\Debug\net7.0\StudentGradingApp.csproj.CoreCompileInputs.cache
+C:\Users\zfali\MSGuidedProject\StudentGradingApp\obj\Debug\net7.0\StudentGradingApp.dll
+C:\Users\zfali\MSGuidedProject\StudentGradingApp\obj\Debug\net7.0\refint\StudentGradingApp.dll
+C:\Users\zfali\MSGuidedProject\StudentGradingApp\obj\Debug\net7.0\StudentGradingApp.pdb
+C:\Users\zfali\MSGuidedProject\StudentGradingApp\obj\Debug\net7.0\StudentGradingApp.genruntimeconfig.cache
+C:\Users\zfali\MSGuidedProject\StudentGradingApp\obj\Debug\net7.0\ref\StudentGradingApp.dll
